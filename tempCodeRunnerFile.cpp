@@ -6,7 +6,7 @@ string compress(string x){
 	string a ="";
 	while(i<L1){
 		a += x[i];
-		i=i+3;
+		i+3;
 	}
 		return a;	
 }	
